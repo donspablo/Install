@@ -4,8 +4,6 @@ The Universal App Installer - Linux, Windows & Mac
 
 https://stackoverflow.com/questions/12498304/using-bash-to-display-a-progress-indicator
 
-<img align="center" src="https://i.stack.imgur.com/dRKaU.gif"/>
-
 ```
 
 $ install app
