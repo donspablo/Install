@@ -6,7 +6,7 @@ Linux, Windows & Mac
 
 ```
 
-$> install app
+$ install app
 
 installing ap ...
 
