@@ -4,7 +4,7 @@ The Universal App Installer
 
 Linux, Windows & Mac
 
-<img align="center" src="https://cdn.osxdaily.com/wp-content/uploads/2018/03/party-parrot-terminal.mov.gif"/>
+<img align="center" src="https://i.stack.imgur.com/dRKaU.gif"/>
 
 ```
 
